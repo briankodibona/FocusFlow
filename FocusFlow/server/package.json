@@ -1,0 +1,1 @@
+{ "name": "focusflow-server", "scripts": { "start": "node server.js" } }
